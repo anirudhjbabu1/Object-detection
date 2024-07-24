@@ -1,2 +1,2 @@
-# Object-detection
-Object detection using Yolov9
+# Custom-Object-Detection
+Custom Object detection using Yolov9
